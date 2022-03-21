@@ -1,0 +1,16 @@
+{
+    "name": "privatekeyconverter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jrej",
+    "license": "ISC",
+    "dependencies": {
+        "base58-js": "^1.0.0",
+        "fs": "^0.0.1-security"
+    }
+}
